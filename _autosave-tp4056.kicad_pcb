@@ -6352,7 +6352,7 @@
 			)
 		)
 		(property "Value" "DW01"
-			(at 3.25 -1.75 360)
+			(at 3.25 -1.75 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "c05723c2-8161-4df1-88ea-666c666653e4")
@@ -6514,7 +6514,7 @@
 			(uuid "f83099be-191f-4556-a7bf-a9f8ef4bb716")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "8f282d8c-c7f2-4685-8887-36f237f4b13f")
 			(effects

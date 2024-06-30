@@ -4,6 +4,8 @@
 
 This project is built ontop of another individual's TP4056 board. If you wish to give your respects to the original dev, you can find their github repo that it was pulled from **[here](https://github.com/alltheworld/tp4056)**, any visits to their repo would be greatly appreciated, making sure we all work together is important! >:L
 
+**THE FILE STRUCTURE FOR THIS PROJECT IS DOOKIE RIGHT NOW, I MIGHT FIX IT ONE DAY, BUT AS OF RIGHT NOW IT'S GONE THROUGH 8 DIFFERENT INSTALLS OF WINDOWS AND LINUX AND MULTIPLE KICAD VERSIONS BECAUSE I'M DUMB, LY!**
+
 ### Project Overview
 
 This project was made with a pretty simple goal in mind, charging support for the S5 battery, with other options towards charging it and being able to implement it with other circuits, the project provides multiple breakout points so it can adapt to all conditions you'd ever want it to, along with the **SUPERIOR USB-C LINK!!!** ;)
